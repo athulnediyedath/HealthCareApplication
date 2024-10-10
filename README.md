@@ -1,5 +1,6 @@
 # HealthCareApplication
-- This is a iOS powered HealthCare Application
+- This is a iOS powered HealthCare Application.
+  
 - It was built for the purpose of a e-health care system which has the capability of solving any query regarding health, providing benefits like Medicine list, Lab test activity and many more facilities to enhance the development of the society in terms of health.
 
 ## Documentation
