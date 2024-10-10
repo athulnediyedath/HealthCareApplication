@@ -36,8 +36,11 @@
 
 ## Flowchart
 
-<img src="/Users/athul/Downloads/Flowchart.jpeg" alt="Flow Diagram of this project" width="200"/>
-
+<p align="center">
+  <kbd>
+    <img src="https://github.com/1hanzla100/developer-portfolio/blob/master/picture.PNG"></img>
+  </kbd>
+</p>
 
 
 
