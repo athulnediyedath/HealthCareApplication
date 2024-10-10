@@ -7,7 +7,7 @@
 • This is a iOS powered project so you need to go through the documentation of Swift UI and XCode for better understanding.
 
 • The link for the following items:- 
-  **https://developer.apple.com/documentation/swiftui/**\
+  **https://developer.apple.com/documentation/swiftui/** \
   **https://developer.apple.com/documentation/xcode**
 
 • For backend the Google Firebase was used.
