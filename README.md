@@ -15,9 +15,7 @@
 
 • For backend the Google Firebase was used.
 
-  link is as follows:- 
-  
-  **https://firebase.google.com/docs**
+  link is as follows:- **https://firebase.google.com/docs**
 
 ## Technologies Used
 
