@@ -8,9 +8,9 @@
 
 • The link for the following items:-  
   
-  **https://developer.apple.com/documentation/swiftui/** 
+   **https://developer.apple.com/documentation/swiftui/** 
   
-  **https://developer.apple.com/documentation/xcode**
+   **https://developer.apple.com/documentation/xcode**
 
 • For backend the Google Firebase was used.
   link is as follows:- 
